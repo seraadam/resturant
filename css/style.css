@@ -1,0 +1,65 @@
+
+body
+{font-family:Arial, Sans-Serif;
+    background-image : url("../images/FullMenu_1920x704.jpg");
+    overflow:hidden;
+}
+.clearfix:before, .clearfix:after { content: ""; display: table; }
+
+.clearfix:after { clear: both; }
+
+a {color:#0067ab; text-decoration:none;}
+
+a:hover {text-decoration:underline;}
+
+.form{
+    position:absolute;
+    height:100%;
+    width:100%;
+    font-family:Helvetica;
+    color:#fff;
+    background:rgba(0,0,0,0.13);
+    padding:30px 0px;
+}
+.form h1 {
+    text-align:center;
+    margin:30px 0;
+    font-size:30px;
+}
+input[type='text'], input[type='email'], input[type='password'] {
+    display:block;
+    width:300px;
+    margin:20px auto;
+    padding:15px;
+    color:#ffff;
+    border:0;
+}
+
+input[type='text'], input[type='email'], input[type='password']: hover{
+
+outline:none;
+}
+
+input[type='submit']{
+    background:#cc2e41;
+    border:0;
+    color:#fff;
+    padding:10px;
+    font-size:20px;
+    width:330px;
+    margin:20px auto;
+    display:block;
+    cursor:pointer;
+    
+}
+input[type='submit']:hover {
+    background:#27ae60;
+}
+.form p{
+    font-size:14px;
+    text-align:center;
+}
+.form p span{
+    cursor:pointer;
+    color:#666;
+}
