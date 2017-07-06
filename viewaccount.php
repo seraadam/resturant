@@ -7,6 +7,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+
+//bla bla bla bla
+//bla bla bla again
 <meta charset="utf-8">
 <title>Registration</title>
 <link rel="stylesheet" href="css/account.css" />

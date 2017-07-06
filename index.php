@@ -13,7 +13,7 @@ include("auth.php"); //include auth.php file on all secure pages
 <body>
 
 
-
+//bla bla bla bla
 <ul>
 <li><a href="#home">About viola</a><br></li>
 <li><a href='menu.php'>Menu</a></li>
