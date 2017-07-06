@@ -11,7 +11,7 @@ include("auth.php"); //include auth.php file on all secure pages
 <link rel="stylesheet" href="css/userstyle.css" />
 </head>
 <body>
-
+//wejdan branch changes
 
 //bla bla bla bla
 <ul>
