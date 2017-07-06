@@ -59,7 +59,7 @@ include("auth.php"); //include auth.php file on all secure pages
     echo '  </table>' ;
     //echo '<h1>'.$_SESSION['cart']. '</h1>';
     ?>
-
+//new code for testing remove later
 <div class="container">
 <input type="button" onclick="decrementValue()" value="-" />
 <input type="text" name="quantity" value="0" maxlength="2" max="10" size="1" id="number" />

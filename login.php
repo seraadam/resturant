@@ -7,6 +7,7 @@
 <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
+//another new testing remove later
 <?php
 	require('db.php');
 	session_start();
